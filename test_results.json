@@ -1,0 +1,49 @@
+{
+  "search_results": [
+    {
+      "id": "5425645525832",
+      "title": "Jedinstven lux stan na Dedinju",
+      "price": "950.000 €",
+      "location": "BeogradOpština Savski venacDedinjeMiloja Đaka",
+      "features": [
+        "175 m2Kvadratura",
+        "4.0Broj soba",
+        "VPR/4Spratnost"
+      ],
+      "link": "https://www.halooglasi.com/nekretnine/prodaja-stanova/jedinstven-lux-stan-na-dedinju/5425645525832?kid=4",
+      "scraped_at": "2025-08-01T00:25:22.816962"
+    },
+    {
+      "id": "5425645845728",
+      "title": "Stan u Centru Grada, Retko u ponudi - DUPLEX / LUX",
+      "price": "395.000 €",
+      "location": "BeogradOpština Savski venacZeleni venacJug Bogdanova",
+      "features": [
+        "83 m2Kvadratura",
+        "3.0Broj soba",
+        "V/5Spratnost"
+      ],
+      "link": "https://www.halooglasi.com/nekretnine/prodaja-stanova/stan-u-centru-grada-retko-u-ponudi---duplex-l/5425645845728",
+      "scraped_at": "2025-08-01T00:25:22.817266"
+    },
+    {
+      "id": "5425645846709",
+      "title": "Cvetni trg, novo u ponudi, renoviran",
+      "price": "349.000 €",
+      "location": "BeogradOpština VračarCvetni trgDesanke Maksimović",
+      "features": [
+        "82 m2Kvadratura",
+        "3.0Broj soba",
+        "II/5Spratnost"
+      ],
+      "link": "https://www.halooglasi.com/nekretnine/prodaja-stanova/cvetni-trg-novo-u-ponudi-renoviran/5425645846709?kid=4",
+      "scraped_at": "2025-08-01T00:25:22.817583"
+    }
+  ],
+  "property_details": {
+    "url": "https://www.halooglasi.com/nekretnine/prodaja-stanova/jedinstven-lux-stan-na-dedinju/5425645525832?kid=4",
+    "scraped_at": "2025-08-01T00:25:24.498165",
+    "characteristics": {},
+    "images": []
+  }
+}

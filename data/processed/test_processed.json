@@ -1,0 +1,84 @@
+{
+  "processed_at": "2025-08-01T00:42:31.183907",
+  "total_count": 3,
+  "properties": [
+    {
+      "id": "5425645525832",
+      "title": "Jedinstven lux stan na Dedinju",
+      "scraped_at": "2025-08-01T00:25:22.816962",
+      "link": "https://www.halooglasi.com/nekretnine/prodaja-stanova/jedinstven-lux-stan-na-dedinju/5425645525832?kid=4",
+      "processed_at": "2025-08-01T00:42:31.183297",
+      "price_raw": "950.000 €",
+      "price_eur": 950000.0,
+      "price_rsd": 111150000.0,
+      "currency": "EUR",
+      "location_raw": "BeogradOpština Savski venacDedinjeMiloja Đaka",
+      "city": "Beograd",
+      "municipality": null,
+      "neighborhood": "Miloja",
+      "street": "Đaka",
+      "area_m2": 175.0,
+      "rooms": 4.0,
+      "floor": 0,
+      "total_floors": 4,
+      "features_raw": [
+        "175 m2Kvadratura",
+        "4.0Broj soba",
+        "VPR/4Spratnost"
+      ],
+      "price_per_m2": 5428.57
+    },
+    {
+      "id": "5425645845728",
+      "title": "Stan u Centru Grada, Retko u ponudi - DUPLEX / LUX",
+      "scraped_at": "2025-08-01T00:25:22.817266",
+      "link": "https://www.halooglasi.com/nekretnine/prodaja-stanova/stan-u-centru-grada-retko-u-ponudi---duplex-l/5425645845728",
+      "processed_at": "2025-08-01T00:42:31.183421",
+      "price_raw": "395.000 €",
+      "price_eur": 395000.0,
+      "price_rsd": 46215000.0,
+      "currency": "EUR",
+      "location_raw": "BeogradOpština Savski venacZeleni venacJug Bogdanova",
+      "city": "Beograd",
+      "municipality": null,
+      "neighborhood": "Jug",
+      "street": "Bogdanova",
+      "area_m2": 83.0,
+      "rooms": 3.0,
+      "floor": 5,
+      "total_floors": 5,
+      "features_raw": [
+        "83 m2Kvadratura",
+        "3.0Broj soba",
+        "V/5Spratnost"
+      ],
+      "price_per_m2": 4759.04
+    },
+    {
+      "id": "5425645846709",
+      "title": "Cvetni trg, novo u ponudi, renoviran",
+      "scraped_at": "2025-08-01T00:25:22.817583",
+      "link": "https://www.halooglasi.com/nekretnine/prodaja-stanova/cvetni-trg-novo-u-ponudi-renoviran/5425645846709?kid=4",
+      "processed_at": "2025-08-01T00:42:31.183502",
+      "price_raw": "349.000 €",
+      "price_eur": 349000.0,
+      "price_rsd": 40833000.0,
+      "currency": "EUR",
+      "location_raw": "BeogradOpština VračarCvetni trgDesanke Maksimović",
+      "city": "Beograd",
+      "municipality": null,
+      "neighborhood": "Desanke",
+      "street": "Maksimović",
+      "area_m2": 82.0,
+      "rooms": 3.0,
+      "floor": 2,
+      "total_floors": 5,
+      "features_raw": [
+        "82 m2Kvadratura",
+        "3.0Broj soba",
+        "II/5Spratnost"
+      ],
+      "price_per_m2": 4256.1
+    }
+  ]
+}
