@@ -1,0 +1,43 @@
+{
+  "cities": ["Beograd", "Novi Sad", "Novi Pazar", "Zlatibor"],
+  "min_discount": 0.10,
+  "min_desperation_score": 60,
+  "max_price": 200000,
+  "min_area": 30,
+  "max_area": 120,
+  "preferred_municipalities": [
+    "Vračar",
+    "Novi Beograd", 
+    "Centar",
+    "Liman",
+    "Stari grad"
+  ],
+  "notifications": {
+    "telegram": true,
+    "email": false,
+    "min_rating": "A"
+  },
+  "search_criteria": {
+    "property_types": ["stan"],
+    "listing_types": ["prodaja"],
+    "exclude_ground_floor": true,
+    "require_parking": false,
+    "require_elevator": false
+  },
+  "investment_strategy": {
+    "focus": "flip",
+    "holding_period_months": 6,
+    "target_roi": 0.20,
+    "max_renovation_cost": 10000
+  },
+  "scraping": {
+    "max_pages_per_site": 5,
+    "delay_between_requests": 2,
+    "sites_to_scrape": [
+      "halooglasi",
+      "nekretnine.rs",
+      "4zida",
+      "cityexpert"
+    ]
+  }
+}
