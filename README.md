@@ -292,7 +292,7 @@ MIT License - vidi [LICENSE](LICENSE) fajl za detalje.
 
 ## 👨‍💻 Autor
 
-Demir Sacirovic- PhD Geoscience, Python Developer
+Demir Sacirovic - PhD Geoscience, Python Developer
 
 ## 🙏 Zahvalnice
 
