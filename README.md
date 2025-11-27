@@ -14,7 +14,7 @@ Serbian Estate Intelligence je platforma koja automatski prikuplja podatke o nek
 - 🚀 **REST API**: FastAPI za pretragu i analizu
 - 📊 **Statistike**: Real-time statistike tržišta
 
-## 📋 Zahtevi
+## 📋 Zahtev
 
 - Python 3.11+
 - PostgreSQL 13+ (opciono, može SQLite)
@@ -292,10 +292,11 @@ MIT License - vidi [LICENSE](LICENSE) fajl za detalje.
 
 ## 👨‍💻 Autor
 
-Demir Ibrišimović - PhD Geoscience, Python Developer
+Demir Sacirovic- PhD Geoscience, Python Developer
 
 ## 🙏 Zahvalnice
 
 - FastAPI za odličan web framework
 - SQLAlchemy za ORM
+
 - BeautifulSoup za web scraping
